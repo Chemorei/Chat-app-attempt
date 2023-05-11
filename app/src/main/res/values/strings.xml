@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my chat app</string>
+    <string name="Sendtext">We will send you an</string>
+    <string name="get_solution">Ask any question for advice</string>
+</resources>

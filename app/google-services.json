@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742191928755",
+    "project_id": "answerandquestion-90e87",
+    "storage_bucket": "answerandquestion-90e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742191928755:android:66ed5ff6236d10397367c6",
+        "android_client_info": {
+          "package_name": "com.example.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742191928755-9mcmlhbtb8ot6b7ulcvkocs6a2erli1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNML2-mdfdWan9Aawb3MPZx47ttwIZu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742191928755-9mcmlhbtb8ot6b7ulcvkocs6a2erli1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

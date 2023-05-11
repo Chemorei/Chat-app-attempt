@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-34:/layout/activity_setup_profile.xml",
+        "source": "com.example.mychatapp-main-37:/layout/activity_setup_profile.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-34:/layout/activity_verification.xml",
+        "source": "com.example.mychatapp-main-37:/layout/activity_verification.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.mychatapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-34:/layout/activity_otpactivity.xml",
+        "source": "com.example.mychatapp-main-37:/layout/activity_otpactivity.xml"
+    }
+]
